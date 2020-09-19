@@ -1,7 +1,6 @@
 ### Welcome 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Vue.js
 - 🌱 I’m currently learning ... PHP(laravel)
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](http://https://www.linkedin.com/in/olabamiji-oyetubo-9a5538162/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I do not like pizza
--->
+
