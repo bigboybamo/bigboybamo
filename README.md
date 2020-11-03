@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-oyetubobamiji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oyetubobamiji@gmail.com)](mailto:oyetubobamiji@gmail.com)
 
  Hi 👋, 
-I'm Bamiji(call me bamo), I'm a software engineer 👨‍💻
+I'm Bamiji(call me Bamo), I'm a Software Developer 👨‍💻
 
-- 🔭 I’m currently building applications with different technologies
+- 🔭 I’m currently practicing building applications with different technologies
 - 🌱 I’m currently learning Laravel & Vue
-- 💬 Ask me about: tech, Football, Fragrances, Anime
+- 💬 Ask me about: Tech, Football, Fragrances, Anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Javascript and PHP
 
