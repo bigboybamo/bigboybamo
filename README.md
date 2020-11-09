@@ -5,7 +5,7 @@
  Hi 👋, 
 I'm Bamiji(call me Bamo), I'm a Software Developer 👨‍💻
 
-- 🔭 I’m currently practicing building applications with different technologies
+- 🔭 I’m currently practicing building applications with JavaScript(Node.js)
 - 🌱 I’m currently learning Laravel & Vue
 - 💬 Ask me about: Tech, Football, Fragrances, Anime
 - 😄 Pronouns: he/him
