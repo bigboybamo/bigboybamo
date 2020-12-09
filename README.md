@@ -6,8 +6,8 @@
 I'm Bamiji (call me Bamo) and I'm a Software Developer 👨‍💻
 
 - 🔭 I’m currently practicing building applications with JavaScript(Node.js)
-- 🌱 I’m currently learning Laravel, React and Vue
-- 💬 Ask me about: Tech, Football, Fragrances and Anime
-- 😄 Pronouns: He/Him
-- ⚡ Languages: Javascript and PHP
+- 🌱 I’m currently learning Laravel, React and Vue.
+- 💬 Ask me about: Tech, Football, Fragrances and Anime.
+- 😄 Pronouns: He/Him.
+- ⚡ Languages: JavaScript and PHP.
 
