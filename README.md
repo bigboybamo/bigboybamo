@@ -4,7 +4,7 @@
 
  Hi there 👋, 
  <p>
-My name is Bamiji (call me Bamo) and I'm a Software Developer 👨‍💻
+My name is Bamiji and I'm a Software Developer 👨‍💻
 </p>
 <ul>
  <li> 🔭 I enjoy building applications with JavaScript (Node.js) & C# (.NET) </li>
