@@ -7,7 +7,7 @@
 My name is Bamiji and I'm a Software Developer 👨‍💻
 </p>
 <ul>
- <li> 🔭 I enjoy building applications with JavaScript (Node.js) & C# (.NET) </li>
+ <li> 🔭 I enjoy building applications with Java & C# (.NET) </li>
  <li> 💬 Ask me about: Tech, Football, Fragrances and Anime.</li>
- <li>⚡ Languages: JavaScript and C#. </li>
+ <li>⚡ Languages: Java and C#. </li>
 </ul>
