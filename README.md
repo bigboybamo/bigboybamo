@@ -1,5 +1,5 @@
 # Olabamiji Oyetubo
-[![Linkedin Badge](https://img.shields.io/badge/-olabamijioyetubo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabamiji-oyetubo-9a5538162/)](https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB-olabamiji-oyetubo-9a5538162) 
+[![Linkedin Badge](https://img.shields.io/badge/-olabamijioyetubo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabamiji-oyetubo-9a5538162/)](https://www.linkedin.com/in/olabamiji-oyetubo-9a5538162/) 
 [![Gmail Badge](https://img.shields.io/badge/-oyetubobamiji@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oyetubobamiji@gmail.com)](mailto:oyetubobamiji@gmail.com)
 
  Hi there 👋, 
