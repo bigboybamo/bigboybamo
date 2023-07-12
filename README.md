@@ -9,5 +9,5 @@ My name is Bamiji and I'm a Software Engineer 👨‍💻
 <ul>
  <li> 🔭 I enjoy building applications with C# (.NET) & Java </li>
  <li> 💬 Ask me about: Tech, Football, Fragrances and Anime.</li>
- <li>⚡ Languages: Java and C#. </li>
+ <li>⚡ Languages:C# and Java. </li>
 </ul>
