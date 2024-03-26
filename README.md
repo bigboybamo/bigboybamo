@@ -14,3 +14,5 @@ My name is Bamiji and I'm a Software Engineer 👨‍💻
  <li>⚡ Languages: C# and Java. </li>
 </ul>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigboybamo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bigboybamo" /></p>
+
