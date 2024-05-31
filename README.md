@@ -9,8 +9,8 @@
 My name is Olabamiji and I'm a Software Engineer 👨‍💻
 </p>
 <ul>
- <li> 🚀 I enjoy building applications with C# (.NET) & Java </li>
- <li> 💻 In my spare time, I like to write Technical articles, blog posts and also contribute to open source. </li>
+ <li> 🚀 I enjoy building applications with C# (.NET) & Java. </li>
+ <li> 💻 In my spare time I like to write technical articles, blog posts, and contribute to open source. </li>
  <li> 💬 Ask me about Tech, Football, Fragrances, and Anime.</li>
  <li> ⚡ Languages: C# and Java. </li>
 </ul>
