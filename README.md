@@ -5,11 +5,11 @@
 
 # Hi there 👋 I'm Olabamiji  
 
-🚀 **Senior Software Engineer | C#/.NET | TypeScript**  
+🚀 **Senior Software Engineer | C#/.NET | VB | TypeScript**  
 I build **scalable APIs, enterprise apps, and open-source tools** that solve real-world problems.  
 
 💻 **Tech Stack**  
-- Backend: **C#, .NET, EF Core, SQL Server, Azure**  
+- Backend: **C#, VB, .NET, EF Core, SQL Server, Azure**  
 - Frontend: **React, Blazor, TypeScript**  
 - Extras: **Redis, Docker, GitHub Actions, SSRS**  
 
