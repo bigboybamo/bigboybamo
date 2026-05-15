@@ -5,16 +5,16 @@
 
 # Hi there 👋 I'm Olabamiji  
 
-🚀 **Senior Software Engineer | C#/.NET | VB | TypeScript**  
+🚀 **Senior Software Engineer | C#/.NET | TypeScript**  
 I build **scalable APIs, enterprise apps, and open-source tools** that solve real-world problems.  
 
 💻 **Tech Stack**  
-- Backend: **C#, VB, .NET, EF Core, SQL Server, Azure**  
-- Frontend: **React, Blazor, TypeScript**  
+- Backend: **C#, TypeScript, .NET, EF Core, SQL Server, PostgreSQL, Oracle Database, Azure**  
+- Frontend: **React.js, Blazor, Next.js**  
 - Extras: **Redis, Docker, GitHub Actions, SSRS**  
 
 📚 **What I Do**  
-- Design & build **secure, high-performance backend systems**  
+- Design & build **secure, high-performance systems**  
 - Create **API-first architectures and microservices**  
 - Write **developer-focused documentation and tutorials**  
 - Contribute to **open source projects** and publish articles on [Dev.to](https://dev.to/bigboybamo)  
