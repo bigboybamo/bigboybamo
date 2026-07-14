@@ -5,7 +5,7 @@
 
 # Hi there 👋 I'm Olabamiji  
 
-🚀 **Senior Software Engineer |  TypeScript | C#/.NET **  
+🚀 **Senior Software Engineer |  TypeScript | C#/.NET**  
 I build **scalable APIs, enterprise apps, and open-source tools** that solve real-world problems.  
 
 💻 **Tech Stack**  
