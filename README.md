@@ -5,7 +5,7 @@
 
 # Hi there! I'm Olabamiji  
 
-**Senior Software Engineer | Software Systems | Agentic AI | Always building**
+**Senior Software Engineer | Software Systems | Agentic AI**
 
 I build **reliable, production-ready software**, from APIs and enterprise systems to automation, AI-assisted development workflows, and open-source tools.
 
